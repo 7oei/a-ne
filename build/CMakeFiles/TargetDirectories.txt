@@ -1,3 +1,0 @@
-/home/adachi/a-ne/build/CMakeFiles/rebuild_cache.dir
-/home/adachi/a-ne/build/CMakeFiles/a-ne.out.dir
-/home/adachi/a-ne/build/CMakeFiles/edit_cache.dir
