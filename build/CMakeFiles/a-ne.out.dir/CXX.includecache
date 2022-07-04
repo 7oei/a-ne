@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adachi/a-ne/a-ne.cpp
+iostream
+-
+a-ne.hpp
+/home/adachi/a-ne/a-ne.hpp
+
+/home/adachi/a-ne/a-ne.hpp
+
+/home/adachi/a-ne/main.cpp
+a-ne.hpp
+/home/adachi/a-ne/a-ne.hpp
+
